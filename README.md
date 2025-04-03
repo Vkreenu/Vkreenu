@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my GitHub profile! I am passionate about solving real-world problems with data, building robust machine learning models, and contributing to open-source projects.<br>Here, you'll find projects that reflect my skills, interests, and contributions to the data science community.<br><br>🌱 I’m currently learning Python | Data Science | Machine Learning | Generative AI | SQL Database | Prompt Engineering.<br>⚡ Fun fact: The first computer "bug" was a real bug! 🪲
+Welcome to my GitHub profile! I am passionate about solving real-world problems with data, building robust machine learning models, and contributing to open-source projects.<br>Here, you'll find projects that reflect my skills, interests, and contributions to the data science community.<br><br>🌱 I’m currently working on Python | Data Science | Machine Learning | Generative AI | SQL Database | Prompt Engineering.<br>⚡ Fun fact: The first computer "bug" was a real bug! 🪲
 
 
 ## 🌐 Socials:
